@@ -1,2 +1,2 @@
 # ConsultaSupervisor
-Diretorio da Aplicação feita para a Empresa
+Diretorio da Aplicação
